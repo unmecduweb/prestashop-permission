@@ -10,7 +10,7 @@ files=( "app/logs" \
 "log" \
 "mails" \
 "modules" \
-"uploads" \
+"upload" \
 "themes" \
 "translations" \
 "var" \
